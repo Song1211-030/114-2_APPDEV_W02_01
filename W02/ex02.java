@@ -1,4 +1,4 @@
-public class es02 {
+public class ex02 {
     public static void main(String[] args) {
         int grade = 80;
         char type = 'm';
